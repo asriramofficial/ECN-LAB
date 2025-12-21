@@ -25,6 +25,8 @@
 **CIRCUIT DIAGRAM:**
 
 
+![WhatsApp Image 2025-12-21 at 9 12 05 PM](https://github.com/user-attachments/assets/077a43ef-8d3a-4173-b0da-93698cf709e8)
+
 
 
 
@@ -45,9 +47,14 @@
 	
  *4.Vary the RPS for different input voltages and note down the readings of all the meters.*
 
+
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+ ![WhatsApp Image 2025-12-21 at 9 12 39 PM](https://github.com/user-attachments/assets/d72d065f-ba04-4f24-b2a3-0ccafc1f027e)
+ ![WhatsApp Image 2025-12-21 at 9 14 19 PM](https://github.com/user-attachments/assets/3d31e5ce-02b0-492d-9717-82df0efb1c83)
+ 
+
 
 **RESULT:**
 
